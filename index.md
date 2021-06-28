@@ -9,7 +9,7 @@ sections:
     type: section_content
     title: About
     content: >
-      I'm a fullstack developer & designer based in Minato, Tokyo. I'm
+      I'm a designer & fullstack developer based in Minato, Tokyo. I'm
       enthusiastic about programming and automation. Besides developing highly
       performant applicatioins at work, I also write about Web design, Web
       application development, programming, tech and more. When I'm not working,
