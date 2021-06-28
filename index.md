@@ -12,15 +12,14 @@ sections:
     type: section_content
     title: About
     content: >
-      Fullstack developer & designer who is enthusiastic about programming and
-      automation. 
+      I'm a fullstack developer & designer based in Minato, Tokyo. I'm
+      enthusiastic about programming and automation. Besides developing highly
+      performant applicatioins at work, I also write about Web design, Web
+      application development, programming, tech and more.
 
 
-      Fan of coffee and Liverpool FC.
-
-
-      Writes about Web design, Web application development, programming, tech
-      and more.
+      When I'm not working, I would brew coffee, practise Latte Art or watch a
+      Liverpool FC match.
     actions:
       - label: Contact Me
         url: /contact
