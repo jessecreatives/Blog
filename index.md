@@ -28,7 +28,9 @@ sections:
         style: button
 seo:
   title: 'Jesse Creatives: Website / Web applications design and development'
-  description: The preview of the Fresh theme
+  description: >-
+    Tokyo-based agency who creates high-quality websites and web applications
+    that boost your business.
   extra:
     - name: 'og:type'
       value: website
