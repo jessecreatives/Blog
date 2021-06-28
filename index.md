@@ -29,8 +29,9 @@ sections:
 seo:
   title: Jesse Creatives |  Official website for the Web
   description: >-
-    Jesse is a Tokyo-based designer & frontend developer who have been creating
-    high-quality websites and web applications for 7 years.
+    Designer & frontend developer based in Tokyo. Specializes in UI/UX design
+    and web application development. Speaks English, Japanese, Korean and
+    Chinese.
   extra:
     - name: 'og:type'
       value: website
