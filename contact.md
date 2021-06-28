@@ -20,7 +20,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: select
-        name: 'To discuss '
+        name: To discuss work
         label: Subject
         default_value: Please select
         options:
