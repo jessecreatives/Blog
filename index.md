@@ -5,9 +5,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Jesse.'
-    content: >
-      Fullstack developer & designer who is enthusiastic about programming and
-      automation. Love coffee and Liverpool FC.
   - section_id: about
     type: section_content
     title: About
