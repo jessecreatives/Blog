@@ -38,11 +38,7 @@ I'm always ready to take on new challenges becasue I see them as opportunities t
 
 > If you cannot change it, accept it; if you cannot accept it, change it.
 >
-> \<cite>
->
-> Unknown
->
-> \</cite>
+> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. \<cite>Scott Adams\</cite>
 
 I write basically about anything that is related to design, programming and technologies. When I'm not working, you would find me brewing drip coffee, practising Latte Art or watching a Liverpool FC match.
 
