@@ -16,13 +16,13 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "works",
+                "url": "/style-guide/",
                 "style": "link"
             },
             {
-                "label": "works",
-                "url": "/style-guide/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
