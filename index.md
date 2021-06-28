@@ -11,11 +11,16 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Fullstack developer & designer who is enthusiastic about programming and
+      automation. 
+
+
+      Fan of coffee and Liverpool FC.
+
+
+      Writes about Web design, Web application development, programming, tech
+      and more.
     actions:
       - label: Contact Me
         url: /contact
