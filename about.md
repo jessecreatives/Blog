@@ -36,7 +36,7 @@ For the past 3 years, I have been particularly interested in UX design and Autom
 
 I'm always ready to take on new challenges becasue I see them as opportunities to make myself, people around me and/or the society a little better. As a self-taught programmer, I went through quite some tough times learning new concepts or struggling figuring out others, but finally I got where I am. So I do believe that there really isn't anything that cannot be done.
 
-> If you cannot change it, accept it; if you cannot accept it, change it.\<cite>Scott Adams\</cite>
+> If you cannot change it, accept it; if you cannot accept it, change it.<cite>Scott Adams</cite>
 
 I write basically about anything that is related to design, programming and technologies. When I'm not working, you would find me brewing drip coffee, practising Latte Art or watching a Liverpool FC match.
 
