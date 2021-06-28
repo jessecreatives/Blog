@@ -25,8 +25,8 @@ sections:
         default_value: Please select
         options:
           - To discuss work opportunities
-          - To 
-          - Other
+          - To connect
+          - 
       - input_type: textarea
         name: message
         label: Message
