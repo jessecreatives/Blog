@@ -29,8 +29,8 @@ sections:
 seo:
   title: Jesse Creatives |  Official website for the Web
   description: >-
-    Tokyo-based agency who creates high-quality websites and web applications
-    that boost your business.
+    Jesse is a Tokyo-based designer & frontend developer who have been creating
+    high-quality websites and web applications for 7 years.
   extra:
     - name: 'og:type'
       value: website
