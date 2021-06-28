@@ -27,7 +27,9 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: 'Jesse Creatives: Website, Web applications design and development'
+  title: >-
+    Jesse Creatives |  Create beautiful Website, Web applications design and
+    development
   description: >-
     Tokyo-based agency who creates high-quality websites and web applications
     that boost your business.
