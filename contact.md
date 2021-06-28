@@ -26,7 +26,8 @@ sections:
         options:
           - To discuss work opportunities
           - To connect
-          - 
+          - Inquiries about my work/blog post
+          - Other
       - input_type: textarea
         name: message
         label: Message
