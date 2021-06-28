@@ -24,8 +24,8 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - fsafsafsa
-          - Sponsorship
+          - To discuss work opportunities
+          - To 
           - Other
       - input_type: textarea
         name: message
