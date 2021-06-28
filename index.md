@@ -27,7 +27,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Jesse Creatives |  Web development
+  title: Jesse Creatives |  Official Site
   description: >-
     Tokyo-based agency who creates high-quality websites and web applications
     that boost your business.
