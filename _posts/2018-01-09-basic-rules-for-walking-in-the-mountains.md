@@ -1,5 +1,5 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: 'React: Create a custom usePrevious hook to access previous states/props'
 excerpt: >-
   Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
   as such. This specifically refers to difficult walking through dense forest,
