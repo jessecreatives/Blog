@@ -1,37 +1,37 @@
 {
-    "title": "Jesse Creaatives: Design & Development",
+    "title": "Jesse Creaatives: デザイン＆開発",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Jesse Creatives",
-        "tagline": "Design & Develop",
+        "title": "Jesse Wei",
+        "tagline": "デザイン＆開発",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "ホーム",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Works",
-                "url": "/style-guide/",
+                "label": "作品",
+                "url": "/works/",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "ブログ",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "自己紹介",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "お問い合わせ",
                 "url": "/contact/",
                 "style": "link"
             }
@@ -43,13 +43,6 @@
                 "url": "https://twitter.com/",
                 "style": "icon",
                 "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
                 "new_window": true
             },
             {
@@ -65,18 +58,11 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
             }
         ]
     },
     "footer": {
         "content": " &copy; 2021 JesseCreatives. All rights reserved. "
     },
-    "domain": "https://jessecreatives.com"
+    "domain": "https://jessewei.jp"
 }

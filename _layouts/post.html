@@ -5,6 +5,8 @@ layout: body
   <article class="post post-full">
     <header class="post-header inner-sm">
       <h1 class="post-title underline">{{ page.title }}</h1>
+      <time class="published"
+        datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%A, %B %e, %Y' }}</time>
       {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
       {% if subtitle_is_not_empty %}
       <div class="post-subtitle">
@@ -21,8 +23,4 @@ layout: body
     <div class="post-content inner-sm">
       {{ content }}
     </div>
-    <footer class="post-meta inner-sm">
-      <time class="published"
-        datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%A, %B %e, %Y' }}</time>
-    </footer>
   </article><!-- .post -->
