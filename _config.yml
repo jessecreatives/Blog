@@ -1,11 +1,14 @@
-title: Stackbit Fresh Theme
+title: Jesse Wei
 baseurl: /
-permalink: '/:title/'
+permalink: "/:title/"
 plugins:
   - jekyll-menus
 collections:
   posts:
-    permalink: '/posts/:title/'
+    permalink: "/posts/:title/"
+  works:
+    permalink: "/works/:title/"
+    output: true
 sass:
   indentWidth: 4
   style: nested

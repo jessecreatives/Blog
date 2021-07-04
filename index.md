@@ -4,55 +4,46 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, this is Jesse Creatives.'
+    title: "こんにちは、Jesseです！"
   - section_id: about
     type: section_content
-    title: About
+    title: 自己紹介
     content: >
-      I'm a designer & fullstack developer based in Minato, Tokyo. I'm
-      enthusiastic about programming and automation. Besides developing highly
-      performant applicatioins at work, I also write about Web design, Web
-      application development, programming, tech and more. When I'm not working,
-      I would brew coffee, practise Latte Art or watch a Liverpool FC match.
+      私は、 東京在住のデザイナー・エンジニアです。得意分野はUI/UXデザイン、フロントエンド開発とプログラミングによる自動化です。現場で開発を頑張っていると同時に、デザインや開発、最新テクノロジーなどについての発信もしています。<br>
+      仕事をしない時は、コーヒーを淹れたり、ラテアートを練習したり、リヴァプールFCの試合を観戦したりしています。
     actions:
-      - label: Contact Me
+      - label: 気になる？
         url: /contact
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: 最新ブログ
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: 全てのブログ
         url: blog/index.html
         style: button
 seo:
-  title: Jesse Creatives |  Official website for the Web
+  title: Jesse Wei |  公式サイト
   description: >-
-    Designer & frontend developer based in Tokyo. Specializes in UI/UX design
-    and web application development. Speaks English, Japanese, Korean and
-    Chinese.
+    東京在住のUI/UXデザイナー・フロントエンドエンジニアです。主にReact.jsやDjangoを利用した開発を行っています。中国語や日本語、英語や韓国語などの多言語サイト構築サービスも提供しています。
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Fresh Theme
+    - name: "og:title"
+      value: Jesse Wei
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Fresh theme
+    - name: "og:description"
+      value: 東京在住のUI/UXデザイナー・フロントエンドエンジニアです。主にReact.jsやDjangoを利用した開発を行っています。中国語や日本語、英語や韓国語などの多言語サイト構築サービスも提供しています。
       keyName: property
-    - name: 'og:image'
-      value: images/4.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Fresh Theme
-    - name: 'twitter:description'
-      value: The preview of the Fresh theme
-    - name: 'twitter:image'
+    - name: "twitter:title"
+      value: Jesse Wei
+    - name: "twitter:description"
+      value: 東京在住のUI/UXデザイナー・フロントエンドエンジニアです。主にReact.jsやDjangoを利用した開発を行っています。中国語や日本語、英語や韓国語などの多言語サイト構築サービスも提供しています。
+    - name: "twitter:image"
       value: images/4.jpg
       relativeUrl: true
 layout: advanced

@@ -24,12 +24,12 @@ layout: body
           {% assign excerpt_is_not_empty = post.excerpt | is_not_empty %}
           {% if excerpt_is_not_empty %}
           <div class="post-content">
-            <p>{{ post.excerpt }}</p>
+            <p>{{ post.excerpt | truncate: 80 }}</p>
           </div>
           {% endif %}
           <footer class="post-meta">
             <time class="published"
-              datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%B %d, %Y' }}</time>
+              datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%Y-%m-%d' }}</time>
           </footer>
         </div>
       </article><!-- .post -->

@@ -1,0 +1,38 @@
+---
+layout: body
+---
+
+  <header class="screen-reader-text">
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="post-feed">
+    <div class="post-feed-inside">
+      {% assign display_works = '/works' | get_pages | sort: 'date' | reverse %}
+      {% for work in display_works %}
+      <article class="post post-card">
+        <div class="post-inside">
+          {% assign thumb_img_path_is_not_empty = work.thumb_img_path | is_not_empty %}
+          {% if thumb_img_path_is_not_empty %}
+          <a class="post-thumbnail" href="{{ work.url | relative_url }}">
+            <img src="{{ work.thumb_img_path | relative_url }}" alt="{{ work.thumb_img_alt }}" />
+          </a>
+          {% endif %}
+          <header class="post-header">
+            <h2 class="post-title"><a href="{{ work.url | relative_url }}" rel="bookmark">{{ work.title }}</a></h2>
+          </header><!-- .post-header -->
+          {% assign excerpt_is_not_empty = work.excerpt | is_not_empty %}
+          {% if excerpt_is_not_empty %}
+          <div class="post-content">
+            <p>{{ work.excerpt | truncate: 80 }}</p>
+          </div>
+          {% endif %}
+          <footer class="post-meta">
+            <time class="published"
+              datetime="{{ work.date | date: '%Y-%m-%d %H:%M' }}">{{ work.date | date: '%Y-%m-%d' }}</time>
+          </footer>
+        </div>
+      </article><!-- .post -->
+      {% endfor %}
+    </div>
+  </div><!-- .post-feed -->
