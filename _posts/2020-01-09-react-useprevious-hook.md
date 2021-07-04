@@ -8,36 +8,33 @@ thumb_img_alt: "React: 自作のusePreviousフックで前stateにアクセス"
 content_img_path: images/useprevious_title.jpg
 content_img_alt: "React: 自作のusePreviousフックで前stateにアクセス"
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: "React: 自作のusePreviousフックで前stateにアクセス"
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+    usePreviousフックを利用し、前の state にアクセルする方法を学習する。
   extra:
     - name: "og:type"
       value: article
       keyName: property
     - name: "og:title"
-      value: Basic Rules For Walking In The Mountains
+      value: "React: 自作のusePreviousフックで前stateにアクセス"
       keyName: property
     - name: "og:description"
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        usePreviousフックを利用し、前の state にアクセルする方法を学習する。
       keyName: property
     - name: "og:image"
-      value: images/6.jpg
+      value: images/useprevious_title.jpg
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
       value: summary_large_image
     - name: "twitter:title"
-      value: Basic Rules For Walking In The Mountains
+      value: "React: 自作のusePreviousフックで前stateにアクセス"
     - name: "twitter:description"
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        usePreviousフックを利用し、前の state にアクセルする方法を学習する。
     - name: "twitter:image"
-      value: images/6.jpg
+      value: images/useprevious_title.jpg
       relativeUrl: true
 layout: post
 ---
@@ -46,7 +43,7 @@ Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=unsplash&ut
 
 React では、今より前の state や props を獲得しようとする場合があるでしょう。class コンポーネントでは、componentDidUpdate があるため、割と簡単に前の state や props にアクセスできますが、function コンポーネントでは Hook を利用する必要があります。
 
-今回は[React 公式サイト](https://reactjs.org/docs/hooks-faq.html#how-to-get-the-previous-props-or-state){:target="\_blank"}にも掲載されている「usePrevious」hook を利用し、前の state にアクセルする方法を学習していきましょう。
+今回は[React 公式サイト](https://reactjs.org/docs/hooks-faq.html#how-to-get-the-previous-props-or-state){:target="\_blank"}にも掲載されている「usePrevious」フック を利用し、前の state にアクセルする方法を学習していきましょう。
 
 <hr>
 

@@ -6,6 +6,9 @@ plugins:
 collections:
   posts:
     permalink: "/posts/:title/"
+  works:
+    permalink: "/works/:title/"
+    output: true
 sass:
   indentWidth: 4
   style: nested
