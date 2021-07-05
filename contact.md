@@ -17,7 +17,7 @@ sections:
       - input_type: email
         name: email
         label: メールアドレス
-        default_value: Your email address
+        default_value: メールアドレス
         is_required: true
       - input_type: select
         name: subject
