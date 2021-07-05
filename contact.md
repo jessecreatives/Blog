@@ -12,7 +12,7 @@ sections:
       - input_type: text
         name: name
         label: 氏名
-        default_value: Your name
+        default_value: 氏名
         is_required: true
       - input_type: email
         name: email
