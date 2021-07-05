@@ -1,6 +1,6 @@
 ---
 title: 自己紹介
-subtitle: This is a short page about me and my work.
+subtitle: 履歴・関心分野・夢・趣味・その他
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
