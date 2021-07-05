@@ -36,7 +36,7 @@ sections:
         name: consent
         options: []
         label: 送信ボタンを押すことは、個人情報の取扱いについてに同意したとみなします。
-    submit_label: Send Message
+    submit_label: 送信する
 seo:
   title: Contact
   description: This is the contact page
