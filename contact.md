@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: お問い合わせ
 hide_title: false
 sections:
   - section_id: contact-form
