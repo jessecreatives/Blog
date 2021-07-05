@@ -21,7 +21,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: タイトル
         default_value: Please select
         options:
           - To discuss work opportunities
