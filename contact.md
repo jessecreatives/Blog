@@ -31,7 +31,7 @@ sections:
       - input_type: textarea
         name: message
         label: メッセージ
-        default_value: Your message
+        default_value: メッセージ（
       - input_type: checkbox
         name: consent
         label: >-
