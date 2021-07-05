@@ -25,7 +25,7 @@ sections:
         default_value: 選択してください
         options:
           - Jesseと提携したい
-          - To connect
+          - sseJ
           - Inquiries about my work/blog post
           - Other
       - input_type: textarea
