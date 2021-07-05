@@ -31,7 +31,7 @@ sections:
       - input_type: textarea
         name: message
         label: メッセージ
-        default_value: メッセージ（
+        default_value: メッセージ（500文字以内）
       - input_type: checkbox
         name: consent
         label: >-
