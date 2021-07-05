@@ -35,7 +35,7 @@ sections:
       - input_type: checkbox
         name: consent
         options: []
-        label: sfsdvzdasdf
+        label: 送信ボタンを押すことは、個人情報の取扱いについてに同意したとみなします。
       - input_type: text
         name: lorem-ipsum
         default_value: lorem-ipsum
