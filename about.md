@@ -1,6 +1,5 @@
 ---
 title: 自己紹介
-subtitle: 履歴・関心分野・夢・趣味・その他
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
