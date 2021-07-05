@@ -38,7 +38,6 @@ sections:
         label: sfsdvzdasdf
       - input_type: text
         name: lorem-ipsum
-        label: 送信ボタンを押すことは、個人情報の取扱いについてに同意したとみなします
         default_value: lorem-ipsum
         options: []
         is_required: false
