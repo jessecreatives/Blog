@@ -37,7 +37,7 @@ sections:
         options: []
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: lsafasdfadsfasfasdfasf
         default_value: lorem-ipsum
         options: []
         is_required: false
