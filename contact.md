@@ -34,8 +34,7 @@ sections:
         default_value: メッセージ（250文字以内）
       - input_type: checkbox
         name: consent
-        options:
-          - lorem-ipsum
+        options: []
     submit_label: Send Message
 seo:
   title: Contact
