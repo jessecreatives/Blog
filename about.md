@@ -30,6 +30,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+私は、 東京在住のデザイナー・エンジニアです。得意分野はUI/UXデザイン、フロントエンド開発とプログラミングによる自動化です。現場で開発を頑張っていると同時に、デザインや開発、最新テクノロジーなどについての発信もしています。\<br> 仕事をしない時は、コーヒーを淹れたり、ラテアートを練習したり、リヴァプールFCの試合を観戦したりしています。
+
 **Jesse** is a designer & fullstack developer based in Minato, Tokyo. Trained as a Product Designer and with an MA in Product Design from The University of Edinburgh, I have been creating high-quality digital design works that are not only visually appealing but also economically and programatically performant for 7 years.
 
 For the past 3 years, I have been particularly interested in UX design and Automation-by-Information-Techs. I developed several desiktop and mobile apps for my colleagues and I to automate part of our tasks so that we did not have to work overtime and could enjoy life a bit more.
