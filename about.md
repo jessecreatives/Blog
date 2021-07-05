@@ -29,18 +29,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Jesse（ジェシー）は、 中国出身で東京在住のデザイナー・エンジニアです。得意分野は、UI/UXデザイン、フロントエンド開発とプログラミングによる問題解決です。現場で開発を頑張っていると同時に、デザインや開発、最新テクノロジーなどについての発信もしています。\<br> 
+Jesse（ジェシー）は、 中国出身で東京在住のデザイナー・エンジニアです。得意分野は、UI/UXデザイン、フロントエンド開発とプログラミングによる問題解決です。現場で開発を頑張っていると同時に、デザインや開発、最新テクノロジーなどについての発信もしています。\<br>
 
 仕事をしない時は、旅行に行ったり、コーヒーを淹れたり、リヴァプールFCの試合を観戦したりしています。最近は特にラテアートにハマっています。
 
 30歳から夢を持つ
 
-私の夢は、できる限り多くの人の仕事を自動化などで効率化させ、その人達が家族と一緒にいる時間、余暇生活をする時間を増やすことです。30歳前までの私は、目的をもたずに機械的に働いていました。ある日、「[The 4-Hour Workweek](https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8/ref=sr\_1\_1?crid=17YJT8XPYU5OP\&dchild=1\&keywords=the+4-hour+workweek\&qid=1625446722\&sprefix=the+4-%2Caps%2C299\&sr=8-1)」
+私の夢は、できる限り多くの人の仕事を自動化などで効率化させ、その人達が家族と一緒にいる時間、余暇生活をする時間を増やすことです。30歳前までの私は、目的をもたずに機械的に働いていました。30歳になって、なぜ頑張っているのかについて考え始めたのです。
 
-I'm always ready to take on new challenges becasue I see them as opportunities to make myself, people around me and/or the society a little better. As a self-taught programmer, I went through quite some tough times learning new concepts or struggling figuring out others, but finally I got where I am. So I do believe that there really isn't anything that cannot be done.
+その当時ちょうど札幌の福祉事業所で勤務しており、利用者管理や書類更新、日々の業務に追われていました。プログラミングが好きな私はそこで提案したのはプログラムを作って業務を自動化させることです。意外とうまく行き、最初の小さなプログラムから複数の大きめのプログラムを一気に開発しました。これは私の夢の起点でした。
+
+常に勉強し、常にチャレンジする
 
 > If you cannot change it, accept it; if you cannot accept it, change it.<cite>Unknown</cite>
 
-I write basically about anything that is related to design, programming and technologies. When I'm not working, you would find me brewing drip coffee, practising Latte Art or watching a Liverpool FC match.
+
 
 If you are interested in working with me, or interested in my works/blog posts, feel free to reach out by sending me a contact form via the [Contact page](abc.com).
