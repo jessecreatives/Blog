@@ -27,7 +27,7 @@ sections:
           - Jesseと提携したい
           - Jesseと繋がりたい
           - Jesseのブログ・作品に興味がある
-          - Other
+          - その他
       - input_type: textarea
         name: message
         label: Message
