@@ -34,7 +34,6 @@ sections:
         default_value: メッセージ（250文字以内）
       - input_type: checkbox
         name: consent
-        label: 送信ボタンを押すことは、個人情報の取扱いについてに同意したとみなします
     submit_label: Send Message
 seo:
   title: Contact
