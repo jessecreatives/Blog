@@ -1,43 +1,42 @@
 ---
-title: Contact
+title: お問い合わせ
 hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
     content: |
-      To get in touch, please fill the form below.
+      下記のフォームを記入した上で、ご送信ください。
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: 氏名
+        default_value: 氏名
         is_required: true
       - input_type: email
         name: email
-        label: Email
-        default_value: Your email address
+        label: メールアドレス
+        default_value: メールアドレス
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
-        default_value: Please select
+        label: タイトル
+        default_value: 選択してください
         options:
-          - To discuss work opportunities
-          - To connect
-          - Inquiries about my work/blog post
-          - Other
+          - Jesseと提携したい
+          - Jesseと繋がりたい
+          - Jesseのブログ・作品に興味がある
+          - その他
       - input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: メッセージ
+        default_value: メッセージ（250文字以内）
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+        options: []
+        label: 送信ボタンを押すことは、個人情報の取扱いについてに同意したとみなします。
+    submit_label: 送信する
 seo:
   title: Contact
   description: This is the contact page
