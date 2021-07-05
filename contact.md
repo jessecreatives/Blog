@@ -26,7 +26,7 @@ sections:
         options:
           - Jesseと提携したい
           - Jesseと繋がりたい
-          - Inquiries about my work/blog post
+          - Jesseのブログ・作品に興味がある
           - Other
       - input_type: textarea
         name: message
