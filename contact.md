@@ -24,7 +24,7 @@ sections:
         label: タイトル
         default_value: 選択してください
         options:
-          - To discuss work opportunities
+          - Jesseと提携したい
           - To connect
           - Inquiries about my work/blog post
           - Other
