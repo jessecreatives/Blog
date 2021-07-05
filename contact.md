@@ -30,7 +30,7 @@ sections:
           - その他
       - input_type: textarea
         name: message
-        label: Message
+        label: メッセージ
         default_value: Your message
       - input_type: checkbox
         name: consent
