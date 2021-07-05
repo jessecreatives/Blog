@@ -35,6 +35,13 @@ sections:
       - input_type: checkbox
         name: consent
         options: []
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Send Message
 seo:
   title: Contact
