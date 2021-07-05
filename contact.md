@@ -22,7 +22,7 @@ sections:
       - input_type: select
         name: subject
         label: タイトル
-        default_value: Please select
+        default_value: 選択してください
         options:
           - To discuss work opportunities
           - To connect
