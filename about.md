@@ -45,6 +45,4 @@ Jesse（ジェシー）は、 中国出身で東京在住のデザイナー・�
 
 > If you cannot change it, accept it; if you cannot accept it, change it.<cite>Unknown</cite>
 
-もっと強くなってもっとチャレンジもしたいです。ワクワク感を持って、日々を過ごしたいです。最近は、福祉分野に特化した業務管理システムの開発をチャレンジしています。私と提携したい方や私の作品、ブログに興味ある方、質問がある方は、お問い合わせページ
-
-f you are interested in working with me, or interested in my works/blog posts, feel free to reach out by sending me a contact form via the [Contact page](abc.com).
+もっと強くなってもっとチャレンジもしたいです。ワクワク感を持って、日々を過ごしたいです。最近は、福祉分野に特化した業務管理システムの開発をチャレンジしています。私と提携したい方や私の作品、ブログに興味ある方、質問がある方は、[お問い合わせ](jessewei.jp/contact)ページからご連絡ください。
