@@ -29,11 +29,13 @@ seo:
       relativeUrl: true
 layout: page
 ---
-私は、 東京在住のデザイナー・エンジニアです。得意分野はUI/UXデザイン、フロントエンド開発とプログラミングによる自動化です。現場で開発を頑張っていると同時に、デザインや開発、最新テクノロジーなどについての発信もしています。\<br> 仕事をしない時は、コーヒーを淹れたり、ラテアートを練習したり、リヴァプールFCの試合を観戦したりしています。
+Jesse（ジェシー）は、 中国出身で東京在住のデザイナー・エンジニアです。得意分野は、UI/UXデザイン、フロントエンド開発とプログラミングによる問題解決です。現場で開発を頑張っていると同時に、デザインや開発、最新テクノロジーなどについての発信もしています。\<br> 
 
-**Jesse** is a designer & fullstack developer based in Minato, Tokyo. Trained as a Product Designer and with an MA in Product Design from The University of Edinburgh, I have been creating high-quality digital design works that are not only visually appealing but also economically and programatically performant for 7 years.
+仕事をしない時は、旅行に行ったり、コーヒーを淹れたり、リヴァプールFCの試合を観戦したりしています。最近は特にラテアートにハマっています。
 
-For the past 3 years, I have been particularly interested in UX design and Automation-by-Information-Techs. I developed several desiktop and mobile apps for my colleagues and I to automate part of our tasks so that we did not have to work overtime and could enjoy life a bit more.
+30歳から夢を持つ
+
+私の夢は、できる限り多くの人の仕事を自動化などで効率化させ、その人達が家族と一緒にいる時間、余暇生活をする時間を増やすことです。30歳前までの私は、目的をもたずに機械的に働いていました。ある日、「[The 4-Hour Workweek](https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8/ref=sr\_1\_1?crid=17YJT8XPYU5OP\&dchild=1\&keywords=the+4-hour+workweek\&qid=1625446722\&sprefix=the+4-%2Caps%2C299\&sr=8-1)」
 
 I'm always ready to take on new challenges becasue I see them as opportunities to make myself, people around me and/or the society a little better. As a self-taught programmer, I went through quite some tough times learning new concepts or struggling figuring out others, but finally I got where I am. So I do believe that there really isn't anything that cannot be done.
 
