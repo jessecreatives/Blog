@@ -58,7 +58,8 @@
                 "icon_class": "linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "profile_img_alt": "Jesse Wei "
     },
     "footer": {
         "content": "© 2021 JesseWEI. All rights reserved."
