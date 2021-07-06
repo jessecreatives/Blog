@@ -2,11 +2,11 @@
     "title": "Jesse Creaatives: デザイン＆開発",
     "layout_style": "overflow",
     "palette": "blue",
+    "favicon": "images/favicon.ico",
     "header": {
         "title": "Jesse Wei",
-        "tagline": "デザイン＆開発",
+        "tagline": "デザイン｜開発",
         "profile_img": "images/portrait (1).png",
-        "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
@@ -59,7 +59,8 @@
                 "icon_class": "linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "profile_img_alt": "Jesse Wei title image"
     },
     "footer": {
         "content": "© 2021 JesseWEI. All rights reserved."
